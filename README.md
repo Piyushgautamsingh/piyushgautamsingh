@@ -11,7 +11,7 @@
   <p>⚡ Fun fact: When I'm not coding, I enjoy exploring the outdoors and staying active.</p>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/piyushgautamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-wagh-541b991a3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyushgautamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-gautam-singh" height="30" width="40" /></a>
   
   
 ## 💻 Tech Stack:
